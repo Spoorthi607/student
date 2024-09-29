@@ -1,2 +1,3 @@
 # student
-This is my first repos
+Author: Spoorthi k s
+
